@@ -199,7 +199,7 @@ layout: default
 <div class="col-span-3 p-5 rounded-2xl bg-stone-50 border border-stone-200">
   <h3 class="text-rose-600 font-bold mb-3">Objetivo General</h3>
   <p class="text-stone-700 leading-relaxed text-sm">
-    Implementar un ecosistema digital (página web) de gestión para negocios de confección bajo demanda, que centralice el catálogo de productos, reserva de citas y la administración operativa. La plataforma será <strong>totalmente responsive y optimizada para móviles</strong>, priorizando la simplicidad de uso para maximizar la eficiencia del servicio.
+    Implementar un ecosistema digital de gestión para negocios de confección que centralice el flujo operativo, con el fin de que el cliente utilice diariamente la aplicación como su <strong>herramienta principal de trabajo</strong>, eliminando la dependencia de WhatsApp y otros canales externos para la gestión del negocio.
   </p>
 </div>
 </v-click>
@@ -208,19 +208,19 @@ layout: default
 <div class="col-span-2 grid grid-rows-4 gap-3">
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-600 text-white font-bold flex items-center justify-center shrink-0">1</span>
-    <span class="text-sm text-stone-700">Interfaz web con catálogo de productos y sistema de reserva de citas</span>
+    <span class="text-xs text-stone-700">Migrar el 80% de las interacciones y reservas desde WhatsApp a la app en los primeros 2 meses post-entrega</span>
   </div>
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-500 text-white font-bold flex items-center justify-center shrink-0">2</span>
-    <span class="text-sm text-stone-700">Módulo de agendamiento automatizado para toma de medidas y pruebas</span>
+    <span class="text-xs text-stone-700">Aumentar el agendamiento de citas en un 20% durante los primeros 3 meses mediante el autoservicio</span>
   </div>
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-400 text-white font-bold flex items-center justify-center shrink-0">3</span>
-    <span class="text-sm text-stone-700">Sistema de notificaciones vía correo y mensajería (WhatsApp)</span>
+    <span class="text-xs text-stone-700">Reducir en un 50% el tiempo administrativo manual mediante automatización de notificaciones e inventario</span>
   </div>
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-300 text-white font-bold flex items-center justify-center shrink-0">4</span>
-    <span class="text-sm text-stone-700">Dashboard administrativo para gestión de citas, inventario y usuarios</span>
+    <span class="text-xs text-stone-700">Digitalizar el 100% de insumos y pedidos activos durante el primer mes para asegurar trazabilidad total</span>
   </div>
 </div>
 </v-click>
