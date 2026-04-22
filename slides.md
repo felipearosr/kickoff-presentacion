@@ -12,7 +12,7 @@ mdc: true
 ---
 
 <div class="absolute inset-0">
-  <img src="./hero-cover.jpg" class="w-full h-full object-cover" />
+  <img src="/hero-cover.jpg" class="w-full h-full object-cover" />
   <div class="absolute inset-0 bg-gradient-to-r from-stone-950/95 via-stone-950/85 to-stone-900/60"></div>
 </div>
 
@@ -105,7 +105,7 @@ layout: default
   <span class="text-rose-600 font-bold">01</span> <span class="text-stone-700">— Desorganización logística y falta de límites laborales en confección independiente</span>
 </div>
 <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="./contexto-01.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Desorganización" />
+  <img src="/contexto-01.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Desorganización" />
 </div>
 </v-click>
 
@@ -114,7 +114,7 @@ layout: default
   <span class="text-rose-600 font-bold">02</span> <span class="text-stone-700">— Invasión a la privacidad y carga mental por dependencia de WhatsApp</span>
 </div>
 <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="./contexto-02.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 60%;" alt="WhatsApp" />
+  <img src="/contexto-02.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 60%;" alt="WhatsApp" />
 </div>
 </v-click>
 
@@ -123,7 +123,7 @@ layout: default
   <span class="text-rose-600 font-bold">03</span> <span class="text-stone-700">— Ineficiencia operativa por gestión manual de ventas, citas e inventario</span>
 </div>
 <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="./contexto-03.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Gestión manual" />
+  <img src="/contexto-03.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Gestión manual" />
 </div>
 </v-click>
 
@@ -132,7 +132,7 @@ layout: default
   <span class="text-rose-600 font-bold">04</span> <span class="text-stone-700">— Necesidad de profesionalizar el servicio y optimizar recursos del negocio</span>
 </div>
 <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="./contexto-04.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 80%;" alt="Profesionalización" />
+  <img src="/contexto-04.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 80%;" alt="Profesionalización" />
 </div>
 </v-click>
 
