@@ -98,47 +98,55 @@ layout: default
 
 # Contexto de la Iniciativa
 
-<div class="grid grid-cols-7 gap-x-4 gap-y-1.5 mt-6">
+<div class="flex flex-col gap-3 mt-6">
 
 <v-click>
-<div class="col-span-5 p-2 rounded-xl bg-stone-50 border border-stone-200 text-sm">
-  <span class="text-rose-600 font-bold">01</span> <span class="text-stone-700">— Desorganización logística y falta de límites laborales en confección independiente</span>
-</div>
-<div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="/contexto-01.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Desorganización" />
+<div class="grid grid-cols-7 gap-4">
+  <div class="col-span-5 p-4 rounded-xl bg-stone-50 border border-stone-200 flex items-center min-h-[4.5rem]">
+    <div class="text-[15px] leading-snug"><span class="text-rose-600 font-bold text-lg mr-2">01</span> <span class="text-stone-700 font-medium">— Desorganización logística y falta de límites laborales en confección independiente</span></div>
+  </div>
+  <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200">
+    <img src="/contexto-01.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Desorganización" />
+  </div>
 </div>
 </v-click>
 
 <v-click>
-<div class="col-span-5 p-2 rounded-xl bg-stone-50 border border-stone-200 text-sm">
-  <span class="text-rose-600 font-bold">02</span> <span class="text-stone-700">— Invasión a la privacidad y carga mental por dependencia de WhatsApp</span>
-</div>
-<div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="/contexto-02.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 60%;" alt="WhatsApp" />
-</div>
-</v-click>
-
-<v-click>
-<div class="col-span-5 p-2 rounded-xl bg-stone-50 border border-stone-200 text-sm">
-  <span class="text-rose-600 font-bold">03</span> <span class="text-stone-700">— Ineficiencia operativa por gestión manual de ventas, citas e inventario</span>
-</div>
-<div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="/contexto-03.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Gestión manual" />
+<div class="grid grid-cols-7 gap-4">
+  <div class="col-span-5 p-4 rounded-xl bg-stone-50 border border-stone-200 flex items-center min-h-[4.5rem]">
+    <div class="text-[15px] leading-snug"><span class="text-rose-600 font-bold text-lg mr-2">02</span> <span class="text-stone-700 font-medium">— Invasión a la privacidad y carga mental por dependencia de WhatsApp</span></div>
+  </div>
+  <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200">
+    <img src="/contexto-02.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 60%;" alt="WhatsApp" />
+  </div>
 </div>
 </v-click>
 
 <v-click>
-<div class="col-span-5 p-2 rounded-xl bg-stone-50 border border-stone-200 text-sm">
-  <span class="text-rose-600 font-bold">04</span> <span class="text-stone-700">— Necesidad de profesionalizar el servicio y optimizar recursos del negocio</span>
-</div>
-<div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200 h-10">
-  <img src="/contexto-04.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 80%;" alt="Profesionalización" />
+<div class="grid grid-cols-7 gap-4">
+  <div class="col-span-5 p-4 rounded-xl bg-stone-50 border border-stone-200 flex items-center min-h-[4.5rem]">
+    <div class="text-[15px] leading-snug"><span class="text-rose-600 font-bold text-lg mr-2">03</span> <span class="text-stone-700 font-medium">— Ineficiencia operativa por gestión manual de ventas, citas e inventario</span></div>
+  </div>
+  <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200">
+    <img src="/contexto-03.jpg" class="absolute inset-0 w-full h-full object-cover" alt="Gestión manual" />
+  </div>
 </div>
 </v-click>
 
 <v-click>
-<div class="col-span-7 p-2 rounded-xl bg-rose-50 border border-rose-200 mt-1 text-sm">
-  <span class="text-rose-600 font-bold">05</span> <span class="text-stone-700 font-medium">— Enfoque proactivo: Identificación de brechas y propuesta de valor personalizada</span>
+<div class="grid grid-cols-7 gap-4">
+  <div class="col-span-5 p-4 rounded-xl bg-stone-50 border border-stone-200 flex items-center min-h-[4.5rem]">
+    <div class="text-[15px] leading-snug"><span class="text-rose-600 font-bold text-lg mr-2">04</span> <span class="text-stone-700 font-medium">— Necesidad de profesionalizar el servicio y optimizar recursos del negocio</span></div>
+  </div>
+  <div class="col-span-2 relative overflow-hidden rounded-xl border border-stone-200">
+    <img src="/contexto-04.jpg" class="absolute inset-0 w-full h-full object-cover" style="object-position: center 80%;" alt="Profesionalización" />
+  </div>
+</div>
+</v-click>
+
+<v-click>
+<div class="p-3 rounded-xl bg-rose-50 border border-rose-200 mt-1 flex items-center min-h-[3.5rem]">
+  <div class="text-[15px] leading-snug"><span class="text-rose-600 font-bold text-lg mr-2">05</span> <span class="text-stone-700 font-bold">— Enfoque proactivo: Identificación de brechas y propuesta de valor personalizada</span></div>
 </div>
 </v-click>
 
