@@ -63,18 +63,26 @@ layout: default
 </v-click>
 
 <v-click>
-<div class="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-3">
+<div class="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
   <div class="flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-stone-700 text-white font-bold text-sm flex items-center justify-center shrink-0">5</span>
     <span class="text-sm font-semibold text-stone-700">Alcance del proyecto</span>
   </div>
   <div class="flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-stone-700 text-white font-bold text-sm flex items-center justify-center shrink-0">6</span>
-    <span class="text-sm font-semibold text-stone-700">Arquitectura de la solución</span>
+    <span class="text-sm font-semibold text-stone-700">Componentes globales de la solución</span>
   </div>
   <div class="flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-stone-700 text-white font-bold text-sm flex items-center justify-center shrink-0">7</span>
-    <div><span class="text-sm font-semibold text-stone-700">Estrategia de implementación</span><br/><span class="text-xs text-stone-500">Plan, cronograma, riesgos y equipo</span></div>
+    <span class="text-sm font-semibold text-stone-700">Propuesta económica</span>
+  </div>
+  <div class="flex items-center gap-3">
+    <span class="w-8 h-8 rounded-lg bg-stone-700 text-white font-bold text-sm flex items-center justify-center shrink-0">8</span>
+    <div><span class="text-sm font-semibold text-stone-700">Estrategia de implementación</span><br/><span class="text-[10px] text-stone-500">Plan, cronograma, riesgos y equipo</span></div>
+  </div>
+  <div class="flex items-center gap-3">
+    <span class="w-8 h-8 rounded-lg bg-stone-700 text-white font-bold text-sm flex items-center justify-center shrink-0">9</span>
+    <span class="text-sm font-semibold text-stone-700">Formas de trabajo y gobierno</span>
   </div>
 </div>
 </v-click>
