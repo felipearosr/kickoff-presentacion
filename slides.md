@@ -818,7 +818,7 @@ transition: fade-out
 </div>
 
 <div class="text-lg text-stone-400">
-  Gracias por su atención
+  Gracias por su atención — 22 de abril de 2026
 </div>
 
 <SlideNum num="15" />
