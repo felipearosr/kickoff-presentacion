@@ -216,19 +216,19 @@ layout: default
 <div class="col-span-2 grid grid-rows-4 gap-3">
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-600 text-white font-bold flex items-center justify-center shrink-0">1</span>
-    <span class="text-xs text-stone-700">Migrar el 80% de las interacciones y reservas desde WhatsApp a la app en los primeros 2 meses post-entrega</span>
+    <span class="text-xs text-stone-700 leading-snug">Desarrollar una plataforma funcional de gestión de citas, pedidos e inventario</span>
   </div>
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-500 text-white font-bold flex items-center justify-center shrink-0">2</span>
-    <span class="text-xs text-stone-700">Aumentar el agendamiento de citas en un 20% durante los primeros 3 meses mediante el autoservicio</span>
+    <span class="text-xs text-stone-700 leading-snug">Implementar funcionalidades que permitan reemplazar el flujo actual basado en WhatsApp</span>
   </div>
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-400 text-white font-bold flex items-center justify-center shrink-0">3</span>
-    <span class="text-xs text-stone-700">Reducir en un 50% el tiempo administrativo manual mediante automatización de notificaciones e inventario</span>
+    <span class="text-xs text-stone-700 leading-snug">Diseñar una interfaz usable que facilite la adopción por parte del cliente</span>
   </div>
   <div class="p-3 rounded-xl bg-stone-50 border border-stone-200 flex items-center gap-3">
     <span class="w-8 h-8 rounded-lg bg-rose-300 text-white font-bold flex items-center justify-center shrink-0">4</span>
-    <span class="text-xs text-stone-700">Digitalizar el 100% de insumos y pedidos activos durante el primer mes para asegurar trazabilidad total</span>
+    <span class="text-xs text-stone-700 leading-snug">Entregar una solución validada mediante pruebas con el cliente</span>
   </div>
 </div>
 </v-click>
@@ -236,10 +236,71 @@ layout: default
 </div>
 
 <v-click>
-<div class="text-center text-xs text-stone-400 mt-4">Objetivos Específicos alineados al objetivo general del proyecto</div>
+<div class="text-center text-xs text-stone-400 mt-4">Objetivos Específicos alineados al desarrollo e implementación técnica</div>
 </v-click>
 
 <SlideNum num="05" />
+
+---
+transition: fade-out
+layout: default
+---
+
+# Indicadores de éxito del producto (post implementación)
+
+<div class="grid grid-cols-2 gap-6 mt-16">
+
+<v-click>
+<div class="p-6 rounded-2xl bg-stone-50 border border-stone-200 flex items-start gap-4">
+  <div class="w-12 h-12 rounded-xl bg-rose-100 text-rose-600 text-2xl flex items-center justify-center shrink-0">📱</div>
+  <div>
+    <h3 class="text-rose-600 font-bold mb-1">Migración de Canal</h3>
+    <p class="text-sm text-stone-600 leading-relaxed">
+      Migrar el <strong>80%</strong> de las interacciones y reservas desde WhatsApp a la app.
+    </p>
+  </div>
+</div>
+</v-click>
+
+<v-click>
+<div class="p-6 rounded-2xl bg-stone-50 border border-stone-200 flex items-start gap-4">
+  <div class="w-12 h-12 rounded-xl bg-rose-100 text-rose-600 text-2xl flex items-center justify-center shrink-0">📈</div>
+  <div>
+    <h3 class="text-rose-600 font-bold mb-1">Aumento de Citas</h3>
+    <p class="text-sm text-stone-600 leading-relaxed">
+      Aumentar el agendamiento de citas en un <strong>20%</strong> mediante el autoservicio.
+    </p>
+  </div>
+</div>
+</v-click>
+
+<v-click>
+<div class="p-6 rounded-2xl bg-stone-50 border border-stone-200 flex items-start gap-4">
+  <div class="w-12 h-12 rounded-xl bg-rose-100 text-rose-600 text-2xl flex items-center justify-center shrink-0">⏱️</div>
+  <div>
+    <h3 class="text-rose-600 font-bold mb-1">Reducción de Tiempo</h3>
+    <p class="text-sm text-stone-600 leading-relaxed">
+      Reducir en un <strong>50%</strong> el tiempo administrativo manual.
+    </p>
+  </div>
+</div>
+</v-click>
+
+<v-click>
+<div class="p-6 rounded-2xl bg-stone-50 border border-stone-200 flex items-start gap-4">
+  <div class="w-12 h-12 rounded-xl bg-rose-100 text-rose-600 text-2xl flex items-center justify-center shrink-0">📊</div>
+  <div>
+    <h3 class="text-rose-600 font-bold mb-1">Digitalización Total</h3>
+    <p class="text-sm text-stone-600 leading-relaxed">
+      Digitalizar el <strong>100%</strong> de insumos y pedidos activos para asegurar trazabilidad.
+    </p>
+  </div>
+</div>
+</v-click>
+
+</div>
+
+<SlideNum num="06" />
 
 ---
 transition: fade-out
@@ -285,7 +346,7 @@ layout: default
 
 </div>
 
-<SlideNum num="06" />
+<SlideNum num="07" />
 
 ---
 transition: slide-left
@@ -334,7 +395,7 @@ layout: default
 
 </div>
 
-<SlideNum num="07" />
+<SlideNum num="08" />
 
 ---
 transition: fade-out
@@ -411,7 +472,7 @@ layout: default
 </div>
 </v-click>
 
-<SlideNum num="08" />
+<SlideNum num="09" />
 
 ---
 transition: slide-left
@@ -482,7 +543,7 @@ layout: default
 
 </div>
 
-<SlideNum num="09" />
+<SlideNum num="10" />
 
 ---
 transition: slide-left
@@ -527,7 +588,7 @@ layout: default
   <div class="text-center">
     <div class="w-10 h-10 mx-auto rounded-full bg-rose-400 text-white font-bold text-sm flex items-center justify-center relative z-10">3</div>
     <div class="mt-4 p-4 rounded-2xl bg-stone-50 border border-stone-200 h-32 flex flex-col justify-center">
-      <div class="font-bold text-stone-800 text-sm">Arquitectura, UI/UX & BD</div>
+      <div class="font-bold text-stone-800 text-sm">Agendamiento e Inventario</div>
       <div class="text-xs text-stone-400 mt-1">Semanas 7–10</div>
       <div class="mt-3 text-xs text-rose-600 font-semibold">Mayo</div>
       <div class="text-xs text-stone-400">4 semanas</div>
@@ -556,7 +617,7 @@ layout: default
 <div class="mt-6 text-center text-sm text-stone-400">12 semanas de ejecución — Marzo a Junio 2026</div>
 </v-click>
 
-<SlideNum num="10" />
+<SlideNum num="11" />
 
 ---
 transition: fade-out
@@ -593,18 +654,13 @@ layout: default
   <div class="flex-1 space-y-0.5">
     <div class="grid grid-cols-12 gap-0.5">
       <div class="col-span-2"></div>
-      <div class="col-span-2 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white font-medium">Configurador</div>
-      <div class="col-span-8"></div>
+      <div class="col-span-3 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white font-medium">Página Principal</div>
+      <div class="col-span-7"></div>
     </div>
     <div class="grid grid-cols-12 gap-0.5">
       <div class="col-span-2"></div>
       <div class="col-span-3 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white">Catálogo</div>
       <div class="col-span-7"></div>
-    </div>
-    <div class="grid grid-cols-12 gap-0.5">
-      <div class="col-span-4"></div>
-      <div class="col-span-3 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white">Agendamiento</div>
-      <div class="col-span-5"></div>
     </div>
     <div class="grid grid-cols-12 gap-0.5">
       <div class="col-span-4"></div>
@@ -618,17 +674,12 @@ layout: default
   <div class="flex-1 space-y-0.5">
     <div class="grid grid-cols-12 gap-0.5">
       <div class="col-span-6"></div>
-      <div class="col-span-2 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white font-medium">Arquitectura</div>
-      <div class="col-span-4"></div>
-    </div>
-    <div class="grid grid-cols-12 gap-0.5">
-      <div class="col-span-6"></div>
-      <div class="col-span-3 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white">UI/UX</div>
+      <div class="col-span-3 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white font-medium">Agendamiento</div>
       <div class="col-span-3"></div>
     </div>
     <div class="grid grid-cols-12 gap-0.5">
-      <div class="col-span-8"></div>
-      <div class="col-span-2 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white">Inventario</div>
+      <div class="col-span-7"></div>
+      <div class="col-span-3 rounded bg-rose-600 h-5 flex items-center justify-center text-[11px] text-white">Inventario</div>
       <div class="col-span-2"></div>
     </div>
     <div class="grid grid-cols-12 gap-0.5">
@@ -653,7 +704,7 @@ layout: default
 </div>
 </div>
 
-<SlideNum num="11" />
+<SlideNum num="12" />
 
 ---
 transition: slide-left
@@ -671,7 +722,7 @@ layout: default
 <div class="p-5 rounded-2xl bg-stone-50 border border-stone-200">
   <h3 class="text-rose-600 font-bold mb-3">Gestión y Documentación</h3>
   <ul class="text-xs space-y-2 text-stone-600">
-    <li><strong class="text-stone-700">Desfase cronológico:</strong> Retrasos afectan desarrollo. <em class="text-stone-400">Mitigación: Scrum y MVP</em></li>
+    <li><strong class="text-stone-700">Desfase cronológico:</strong> Desviaciones en estimaciones o aparición de complejidad técnica no prevista que impacten el cumplimiento del cronograma. <em class="text-stone-400">Mitigación: Scrum y MVP</em></li>
     <li><strong class="text-stone-700">Pérdida de datos:</strong> Inconsistencia técnica. <em class="text-stone-400">Mitigación: GitHub y respaldos</em></li>
     <li><strong class="text-stone-700">Brechas de comunicación:</strong> Desincronía BE/FE. <em class="text-stone-400">Mitigación: Sincronización semanal</em></li>
     <li><strong class="text-stone-700">Retraso del cliente:</strong> Demora en entrega de info. <em class="text-stone-400">Mitigación: Relación constante y presencial apoyada en confianza previa</em></li>
@@ -695,7 +746,7 @@ layout: default
 
 </div>
 
-<SlideNum num="12" />
+<SlideNum num="13" />
 
 ---
 transition: fade-out
@@ -751,7 +802,7 @@ layout: default
 </div>
 </div>
 
-<SlideNum num="13" />
+<SlideNum num="14" />
 
 ---
 transition: slide-up
@@ -813,7 +864,7 @@ layout: default
 
 </div>
 
-<SlideNum num="14" />
+<SlideNum num="15" />
 
 ---
 layout: center
@@ -829,5 +880,5 @@ transition: fade-out
   Gracias por su atención
 </div>
 
-<SlideNum num="15" />
+<SlideNum num="16" />
 
